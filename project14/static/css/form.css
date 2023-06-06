@@ -1,0 +1,19 @@
+
+label
+{
+margin-left: 0px;
+ margin: 20px;
+}
+input
+{
+margin-left: 15px;
+margin: 25px;
+}
+#bg{
+    background-size: 1800px 900px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    text-align: center;
+    height:100vh;
+}
